@@ -25,7 +25,13 @@ xs test.xml -q //p
 
 ## To-Dos
 
-[ ] Implement recursive search in folders
-[ ] Add tests
-[ ] Add better error handling
-[ ] Add better formating on the output
+- [ ] Implement recursive search in folders
+- [ ] Add tests
+- [ ] Add better error handling
+- [ ] Add better formating on the output
+
+## Used software
+
+- [saxon-js](https://www.saxonica.com/saxon-js/index.xml)
+- [commander-js](https://github.com/tj/commander.js/)
+- [pkg](https://github.com/vercel/pkg)
